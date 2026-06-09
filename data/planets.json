@@ -1,0 +1,321 @@
+[
+  {
+    "id": "sun",
+    "name": "The Sun",
+    "tagline": "The Heart of the Solar System",
+    "description": "The Sun is a nearly perfect sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core. It radiates energy mainly as light, ultraviolet, and infrared radiation, providing the primary energy source for life on Earth.",
+    "orbitRadius": 0,
+    "orbitSpeed": 0,
+    "rotationSpeed": 0.005,
+    "size": 5.0,
+    "color": "#f59e0b",
+    "facts": {
+      "distance": "0 AU (Center)",
+      "radius": "696,340 km",
+      "moons": "8 Planets",
+      "orbitalPeriod": "N/A",
+      "rotationPeriod": "25-35 Earth Days",
+      "gravity": "274 m/s²",
+      "temperature": "5,500°C (Surface) / 15,000,000°C (Core)"
+    },
+    "hotspots": [
+      {
+        "id": "solar_core",
+        "name": "Nuclear Core",
+        "description": "At the core, gravitational forces compress hydrogen atoms until they fuse into helium, releasing enormous energy.",
+        "position": [0, 0, 1.05],
+        "discoveryId": "sun_fusion"
+      },
+      {
+        "id": "solar_flare",
+        "name": "Solar Corona",
+        "description": "The outermost atmosphere of the Sun, reaching temperatures of millions of degrees, venting solar wind into space.",
+        "position": [-0.7, 0.7, 0.7],
+        "discoveryId": "sun_corona"
+      }
+    ]
+  },
+  {
+    "id": "mercury",
+    "name": "Mercury",
+    "tagline": "The Scorched World",
+    "description": "Mercury is the smallest and closest planet to the Sun. With no atmosphere to retain heat, it experiences the most extreme temperature swings in the Solar System, ranging from blistering heat during the day to freezing cold at night.",
+    "orbitRadius": 8,
+    "orbitSpeed": 0.04,
+    "rotationSpeed": 0.01,
+    "size": 0.6,
+    "color": "#9ca3af",
+    "facts": {
+      "distance": "57.9 Million km (0.39 AU)",
+      "radius": "2,439.7 km",
+      "moons": "0",
+      "orbitalPeriod": "88 Earth Days",
+      "rotationPeriod": "59 Earth Days",
+      "gravity": "3.7 m/s²",
+      "temperature": "-180°C to 430°C"
+    },
+    "hotspots": [
+      {
+        "id": "caloris_basin",
+        "name": "Caloris Basin",
+        "description": "One of the largest impact basins in the Solar System, created by a massive asteroid collision early in Mercury's history.",
+        "position": [0.5, 0.3, 0.8],
+        "discoveryId": "mercury_caloris"
+      }
+    ]
+  },
+  {
+    "id": "venus",
+    "name": "Venus",
+    "tagline": "Hell Beneath the Clouds",
+    "description": "Venus is our closest planetary neighbor, similar in structure and size to Earth but vastly different. Its thick, toxic atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system.",
+    "orbitRadius": 12,
+    "orbitSpeed": 0.03,
+    "rotationSpeed": -0.004,
+    "size": 1.2,
+    "color": "#f59e0b",
+    "facts": {
+      "distance": "108.2 Million km (0.72 AU)",
+      "radius": "6,051.8 km",
+      "moons": "0",
+      "orbitalPeriod": "225 Earth Days",
+      "rotationPeriod": "243 Earth Days (Retrograde)",
+      "gravity": "8.87 m/s²",
+      "temperature": "460°C (Constant)"
+    },
+    "hotspots": [
+      {
+        "id": "maat_mons",
+        "name": "Maat Mons",
+        "description": "The highest volcano on Venus, rising 8 kilometers above the mean planetary radius. It may still be volcanically active.",
+        "position": [-0.6, 0.4, 0.7],
+        "discoveryId": "venus_volcano"
+      }
+    ]
+  },
+  {
+    "id": "earth",
+    "name": "Earth",
+    "tagline": "The Blue Marble",
+    "description": "Earth is our home planet, the third planet from the Sun, and the only place we know of so far that's inhabited by living things. Its atmosphere, rich in oxygen and moisture, moderates global temperatures to allow liquid water oceans.",
+    "orbitRadius": 16,
+    "orbitSpeed": 0.02,
+    "rotationSpeed": 0.015,
+    "size": 1.3,
+    "color": "#3b82f6",
+    "facts": {
+      "distance": "149.6 Million km (1.0 AU)",
+      "radius": "6,371 km",
+      "moons": "1",
+      "orbitalPeriod": "365.25 Days",
+      "rotationPeriod": "24 Hours",
+      "gravity": "9.81 m/s²",
+      "temperature": "-89°C to 58°C"
+    },
+    "hotspots": [
+      {
+        "id": "mariana_trench",
+        "name": "Mariana Trench",
+        "description": "The deepest known point in Earth's oceans, stretching down nearly 11 kilometers in the western Pacific.",
+        "position": [0.3, -0.2, 0.95],
+        "discoveryId": "earth_oceans"
+      },
+      {
+        "id": "himalayas",
+        "name": "The Himalayas",
+        "description": "Earth's highest mountain range, formed by the collision of tectonic plates and containing Mount Everest.",
+        "position": [0.6, 0.5, 0.6],
+        "discoveryId": "earth_mountains"
+      }
+    ]
+  },
+  {
+    "id": "mars",
+    "name": "Mars",
+    "tagline": "Humanity's Next Frontier",
+    "description": "Mars is a dusty, cold, desert world with a very thin atmosphere. There is strong evidence that Mars was—billions of years ago—wetter and warmer, with a thicker atmosphere, making it a primary target for astrobiology.",
+    "orbitRadius": 22,
+    "orbitSpeed": 0.016,
+    "rotationSpeed": 0.014,
+    "size": 0.8,
+    "color": "#ef4444",
+    "facts": {
+      "distance": "227.9 Million km (1.52 AU)",
+      "radius": "3,389.5 km",
+      "moons": "2",
+      "orbitalPeriod": "687 Earth Days",
+      "rotationPeriod": "24.6 Hours",
+      "gravity": "3.71 m/s²",
+      "temperature": "-140°C to 20°C"
+    },
+    "hotspots": [
+      {
+        "id": "olympus_mons",
+        "name": "Olympus Mons",
+        "description": "The largest volcano in the Solar System, three times the height of Mount Everest and broad enough to cover the state of Arizona.",
+        "position": [-0.3, 0.2, 0.9],
+        "discoveryId": "mars_olympus"
+      },
+      {
+        "id": "valles_marineris",
+        "name": "Valles Marineris",
+        "description": "A vast canyon system running along the Martian equator, stretching over 4,000 km long and up to 7 km deep.",
+        "position": [0.7, -0.1, 0.7],
+        "discoveryId": "mars_canyon"
+      }
+    ]
+  },
+  {
+    "id": "jupiter",
+    "name": "Jupiter",
+    "tagline": "King of Giants",
+    "description": "Jupiter is more than twice as massive than the other planets of our solar system combined. The giant planet's Great Red Spot is a centuries-old storm bigger than Earth, swirling in a dense atmosphere of hydrogen and helium.",
+    "orbitRadius": 32,
+    "orbitSpeed": 0.009,
+    "rotationSpeed": 0.03,
+    "size": 2.5,
+    "color": "#f97316",
+    "facts": {
+      "distance": "778.5 Million km (5.20 AU)",
+      "radius": "69,911 km",
+      "moons": "95",
+      "orbitalPeriod": "12 Earth Years",
+      "rotationPeriod": "9.9 Hours",
+      "gravity": "24.79 m/s²",
+      "temperature": "-110°C (Average)"
+    },
+    "hotspots": [
+      {
+        "id": "great_red_spot",
+        "name": "Great Red Spot",
+        "description": "An enormous, spinning storm in Jupiter's atmosphere that is twice the width of Earth and has raged for at least 300 years.",
+        "position": [0.4, -0.3, 0.9],
+        "discoveryId": "jupiter_storm"
+      }
+    ]
+  },
+  {
+    "id": "saturn",
+    "name": "Saturn",
+    "tagline": "The Jewel of Space",
+    "description": "Adorned with a dazzling, complex system of icy rings, Saturn is unique in our solar system. The other giant planets have rings, but none are as spectacular or as complicated as Saturn's. It is a gas giant made mostly of hydrogen and helium.",
+    "orbitRadius": 42,
+    "orbitSpeed": 0.007,
+    "rotationSpeed": 0.028,
+    "size": 2.1,
+    "color": "#eab308",
+    "facts": {
+      "distance": "1.43 Billion km (9.58 AU)",
+      "radius": "58,232 km",
+      "moons": "146",
+      "orbitalPeriod": "29 Earth Years",
+      "rotationPeriod": "10.7 Hours",
+      "gravity": "10.44 m/s²",
+      "temperature": "-140°C (Average)"
+    },
+    "hotspots": [
+      {
+        "id": "hexagon_storm",
+        "name": "Hexagonal North Pole",
+        "description": "A bizarre, six-sided jet stream storm at Saturn's north pole, spanning wider than two Earths.",
+        "position": [0, 0.95, 0.3],
+        "discoveryId": "saturn_hexagon"
+      }
+    ],
+    "hasRings": true,
+    "ringInnerRadius": 3.0,
+    "ringOuterRadius": 6.0,
+    "ringColor": "#d97706"
+  },
+  {
+    "id": "uranus",
+    "name": "Uranus",
+    "tagline": "The Tilted Giant",
+    "description": "Uranus is an ice giant that orbits the Sun on its side, tilted at an extreme angle of 97.7 degrees. This unique tilt causes extreme seasons and makes Uranus rotate almost like a rolling ball.",
+    "orbitRadius": 52,
+    "orbitSpeed": 0.005,
+    "rotationSpeed": -0.02,
+    "size": 1.6,
+    "color": "#22d3ee",
+    "facts": {
+      "distance": "2.87 Billion km (19.18 AU)",
+      "radius": "25,362 km",
+      "moons": "28",
+      "orbitalPeriod": "84 Earth Years",
+      "rotationPeriod": "17.2 Hours (Retrograde)",
+      "gravity": "8.69 m/s²",
+      "temperature": "-195°C (Average)"
+    },
+    "hotspots": [
+      {
+        "id": "tilted_axis",
+        "name": "Extreme Axial Tilt",
+        "description": "Uranus's spin axis is tilted by 98 degrees, likely due to a collision with an Earth-sized body in its early history.",
+        "position": [0.8, 0.1, 0.6],
+        "discoveryId": "uranus_tilt"
+      }
+    ],
+    "hasRings": true,
+    "ringInnerRadius": 2.2,
+    "ringOuterRadius": 3.0,
+    "ringColor": "#06b6d4"
+  },
+  {
+    "id": "neptune",
+    "name": "Neptune",
+    "tagline": "The Wind Giant",
+    "description": "Neptune, the most distant major planet orbiting our Sun, is a dark, cold, ice giant whipped by supersonic winds. It was the first planet located through mathematical calculations rather than direct observation.",
+    "orbitRadius": 62,
+    "orbitSpeed": 0.004,
+    "rotationSpeed": 0.022,
+    "size": 1.5,
+    "color": "#3b82f6",
+    "facts": {
+      "distance": "4.50 Billion km (30.07 AU)",
+      "radius": "24,622 km",
+      "moons": "16",
+      "orbitalPeriod": "165 Earth Years",
+      "rotationPeriod": "16.1 Hours",
+      "gravity": "11.15 m/s²",
+      "temperature": "-200°C (Average)"
+    },
+    "hotspots": [
+      {
+        "id": "great_dark_spot",
+        "name": "Great Dark Spot",
+        "description": "A series of massive, dark storm systems in Neptune's atmosphere, characterized by winds reaching up to 2,100 km/h.",
+        "position": [0.6, -0.2, 0.78],
+        "discoveryId": "neptune_winds"
+      }
+    ]
+  },
+  {
+    "id": "pluto",
+    "name": "Pluto",
+    "tagline": "The Distant Frontier",
+    "description": "Pluto, once considered the ninth planet, is the most famous dwarf planet in the Kuiper Belt. It is a complex, icy world with glaciers of nitrogen, blue skies, and towering mountains of water ice.",
+    "orbitRadius": 70,
+    "orbitSpeed": 0.003,
+    "rotationSpeed": -0.008,
+    "size": 0.5,
+    "color": "#a78bfa",
+    "facts": {
+      "distance": "5.91 Billion km (39.48 AU)",
+      "radius": "1,188.3 km",
+      "moons": "5",
+      "orbitalPeriod": "248 Earth Years",
+      "rotationPeriod": "6.4 Earth Days (Retrograde)",
+      "gravity": "0.62 m/s²",
+      "temperature": "-230°C to -220°C"
+    },
+    "hotspots": [
+      {
+        "id": "tombaugh_regio",
+        "name": "Tombaugh Regio",
+        "description": "A vast, bright, heart-shaped region composed of nitrogen, carbon monoxide, and methane snows, nicknamed Pluto's Heart.",
+        "position": [0.2, -0.2, 0.95],
+        "discoveryId": "pluto_heart"
+      }
+    ]
+  }
+]

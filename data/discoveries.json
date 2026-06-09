@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sun_fusion",
+    "name": "Harnessing the Sun's Core",
+    "planetId": "sun",
+    "description": "Unlock details about the thermonuclear fusion engine powering the solar system.",
+    "unlockedText": "Nuclear Fusion Unlocked: Inside the Sun's core, hydrogen atoms fuse under pressures 250 billion times Earth's atmosphere, converting 600 million tons of hydrogen into helium every second. This release of energy sustains all life on Earth."
+  },
+  {
+    "id": "sun_corona",
+    "name": "Solar Winds and the Corona",
+    "planetId": "sun",
+    "description": "Observe solar flares venting high-energy particles into deep space.",
+    "unlockedText": "Corona Dynamics Log: The solar corona is mystifyingly hotter than the Sun's surface, reaching temperatures up to 3 million degrees Celsius. It continuously vents solar winds—streams of charged plasma traveling at speeds of 400 km/s."
+  },
+  {
+    "id": "mercury_caloris",
+    "name": "Locate Ancient Impact Sites",
+    "planetId": "mercury",
+    "description": "Scan Mercury's surface to find the remnants of the giant asteroid impact.",
+    "unlockedText": "Caloris Basin Discovered: A colossal impact basin spanning 1,550 km. The impact was so intense it sent seismic waves around the planet, creating a region of chaotic terrain directly on the exact opposite side of Mercury."
+  },
+  {
+    "id": "venus_volcano",
+    "name": "Deploy Atmospheric Probes",
+    "planetId": "venus",
+    "description": "Drop a probe through the sulfuric acid clouds to search for volcanic peaks.",
+    "unlockedText": "Maat Mons Volcano Scanned: Under the crushing carbon dioxide atmosphere (92 times Earth's pressure), you've deployed probes to map Maat Mons. Active lava flows have been confirmed, showing Venus is geologically alive."
+  },
+  {
+    "id": "earth_oceans",
+    "name": "Observe Earth's Systems",
+    "planetId": "earth",
+    "description": "Analyze tectonic divisions and extreme depths in Earth's ocean crust.",
+    "unlockedText": "Challenger Deep Deciphered: Located in the Mariana Trench, you mapped the subduction zone. Here, the Pacific Plate slides under the Mariana Plate, forming a trench 10,994 meters deep in total darkness."
+  },
+  {
+    "id": "earth_mountains",
+    "name": "Map Tectonic Collisions",
+    "planetId": "earth",
+    "description": "Examine mountain building processes along tectonic plate boundaries.",
+    "unlockedText": "Himalayan Ridge Elevation: Collisional mechanics between the Indian and Eurasian plates are pushing Mount Everest higher by about 4 millimeters per year, demonstrating the dynamic nature of Earth's crust."
+  },
+  {
+    "id": "mars_olympus",
+    "name": "Ascend Olympus Mons",
+    "planetId": "mars",
+    "description": "Map the slopes of the tallest volcano in the solar system.",
+    "unlockedText": "Olympus Mons Peak Reached: A shield volcano with a diameter of 600 km and a height of 21.9 km. Its caldera alone is 80 km wide, large enough to engulf entire cities. Its low slope is due to the slow, steady flow of highly fluid basaltic lava."
+  },
+  {
+    "id": "mars_canyon",
+    "name": "Search for Ancient Water",
+    "planetId": "mars",
+    "description": "Analyze sedimentary layers in the grand Martian canyon system.",
+    "unlockedText": "Valles Marineris Water Ice Found: Spectral analysis of deep canyon walls reveals water-ice crystals trapped in minerals. This confirms that massive rivers of liquid water once carved their way through the Martian landscape billions of years ago."
+  },
+  {
+    "id": "jupiter_storm",
+    "name": "Investigate Europa's Oceans",
+    "planetId": "jupiter",
+    "description": "Analyze the Great Red Spot and scan the icy moon Europa for biosignatures.",
+    "unlockedText": "Europa Cryo-Ocean Validated: Scans of Europa's cracked icy crust reveal a liquid water ocean containing more water than all of Earth's oceans combined, kept warm by tidal forces and geothermal vents at the sea floor."
+  },
+  {
+    "id": "saturn_hexagon",
+    "name": "Explore Titan's Atmosphere",
+    "planetId": "saturn",
+    "description": "Analyze the hexagonal jet stream and scan Saturn's moon Titan for organic chemistry.",
+    "unlockedText": "Titan Hydrocarbon Lakes Found: Radar scans of Saturn's largest moon Titan have mapped lakes and rivers of liquid methane and ethane, surrounded by thick nitrogen-rich air—a chemical environment similar to early pre-biotic Earth."
+  },
+  {
+    "id": "uranus_tilt",
+    "name": "Study Unusual Seasons",
+    "planetId": "uranus",
+    "description": "Measure the thermal effects of Uranus's perpendicular orientation.",
+    "unlockedText": "Extreme Solstices Scanned: Uranus's 98-degree axial tilt means each pole spends 42 Earth years in continuous sunlight, followed by 42 years of complete darkness, causing complex thermal stresses in its hydrogen-helium atmosphere."
+  },
+  {
+    "id": "neptune_winds",
+    "name": "Analyze Extreme Winds",
+    "planetId": "neptune",
+    "description": "Measure velocity of dark storm systems rotating in the hydrogen-helium envelope.",
+    "unlockedText": "Supersonic Jet Streams Recorded: Wind speeds in Neptune's Great Dark Spot exceed 2,100 km/h. Powered by internal heat escaping from the planet's core, these are the fastest winds recorded anywhere in the Solar System."
+  },
+  {
+    "id": "pluto_heart",
+    "name": "Establish a Distant Outpost",
+    "planetId": "pluto",
+    "description": "Establish a research station on Pluto's frozen nitrogen glaciers.",
+    "unlockedText": "Sputnik Planitia Outpost Established: We've established 'Solaris Station 9' on the nitrogen glaciers of Tombaugh Regio. The glacier undergoes convective churning over millions of years, recycling the icy crust."
+  }
+]
