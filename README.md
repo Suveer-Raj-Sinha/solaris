@@ -113,4 +113,4 @@ Solaris was designed and engineered by **Suveer Raj Sinha**, a Computer Science 
 *“Sometimes, the best way to understand the universe is to explore it yourself.”* 🚀🪐✨
 
 - **GitHub**: [github.com/suveer-raj-sinha](https://github.com)
-- **Portfolio**: [portfolio.com](https://portfolio.com)
+- **Portfolio**: [https://suveer-raj-sinha.vercel.app/](https://suveer-raj-sinha.vercel.app/)
